@@ -1,1 +1,5 @@
 .venv/
+corpora/
+wandb/
+*.tar.gz
+*.ckpt
